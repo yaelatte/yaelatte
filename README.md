@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yaelatte
+- 👀 I’m interested in Discord bot codings!
+- 🌱 I’m currently learning Python language
+- 📫 How to reach me : yunyun#3871 on Discord
